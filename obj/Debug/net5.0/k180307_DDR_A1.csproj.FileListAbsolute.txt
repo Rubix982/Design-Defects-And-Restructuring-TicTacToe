@@ -1,0 +1,16 @@
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/k180307_DDR_A1
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/k180307_DDR_A1.deps.json
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/k180307_DDR_A1.runtimeconfig.json
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/k180307_DDR_A1.runtimeconfig.dev.json
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/k180307_DDR_A1.dll
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/ref/k180307_DDR_A1.dll
+/home/saif/Downloads/k180307_DDR_A1/bin/Debug/net5.0/k180307_DDR_A1.pdb
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.csproj.AssemblyReference.cache
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.GeneratedMSBuildEditorConfig.editorconfig
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.AssemblyInfoInputs.cache
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.AssemblyInfo.cs
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.csproj.CoreCompileInputs.cache
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.dll
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/ref/k180307_DDR_A1.dll
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.pdb
+/home/saif/Downloads/k180307_DDR_A1/obj/Debug/net5.0/k180307_DDR_A1.genruntimeconfig.cache
