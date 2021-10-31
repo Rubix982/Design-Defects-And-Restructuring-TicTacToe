@@ -1,11 +1,10 @@
-﻿using System;
-using k180307_DDR_A1.Library.Frontend;
+﻿using k180307_DDR_A1.Library.Frontend;
 
 namespace k180307_DDR_A1
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             new Session().Start();
         }

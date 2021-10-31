@@ -1,9 +1,8 @@
 using System;
-using System.Runtime;
 
 namespace k180307_DDR_A1.Library.Controller
 {
-    public class BoardPrinter
+    public static class BoardPrinter
     {
         public static void PrintBoard(Board board)
         {

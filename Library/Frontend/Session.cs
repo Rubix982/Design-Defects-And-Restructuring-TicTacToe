@@ -91,8 +91,9 @@ namespace k180307_DDR_A1.Library.Frontend
             
                 // End prompt
                 isPlayAgain = this.PlayAgainSetup();
-                
             }
+            
+            this.Stop();
         }
 
         private void PlayerSetup()
@@ -210,6 +211,8 @@ namespace k180307_DDR_A1.Library.Frontend
 
                             // Read Key
                             Console.ReadKey();
+                            
+                            Console.Clear();
                         }
                         else
                         {
@@ -258,15 +261,19 @@ namespace k180307_DDR_A1.Library.Frontend
             Console.WriteLine("Press Y to change, any key to continue...");
 
             if (Console.ReadLine() == "Y")
-            {
-                this.GetPlayerInfo = true;
-            }
+                GetPlayerInfo = true;
 
             return true;
         }
 
         public void Stop()
         {
+            /*
+             * Clear data before termination
+             */
+
+            TicTacToe.ClearPlayerList();
+            TicTacToe.ClearBoard();
         }
 
         private void PrintDialog(string message, string endWith)

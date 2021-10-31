@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using k180307_DDR_A1.Library.Controller;
 
 namespace k180307_DDR_A1.Library.Services
